@@ -1,0 +1,259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Best Configuration\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-05 17:56+0100\n"
+"PO-Revision-Date: 2018-01-05 17:56+0100\n"
+"Last-Translator: \n"
+"Language-Team: Giovambattista Fazioli <giovambattista.fazioli@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_nx:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: config/menus.php:20 resources/views/general/index.php:4
+msgid "General"
+msgstr ""
+
+#: config/menus.php:27 plugin/Providers/BestConfigurationManager.php:102
+#: resources/views/dashboard/admin.php:25 resources/views/dashboard/index.php:4
+msgid "Dashboard"
+msgstr ""
+
+#: config/menus.php:34 plugin/Providers/BestConfigurationManager.php:156
+#: resources/views/dashboard/admin.php:31
+msgid "Comments"
+msgstr ""
+
+#: config/menus.php:41 plugin/Providers/BestConfigurationManager.php:111
+#: resources/views/dashboard/admin.php:26 resources/views/posts/index.php:4
+msgid "Posts"
+msgstr ""
+
+#: config/menus.php:48 resources/views/widgets/index.php:4
+msgid "Widgets"
+msgstr ""
+
+#: plugin/Http/Controllers/Controller.php:51
+msgid "Settings Reset to default successfully!"
+msgstr ""
+
+#: plugin/Http/Controllers/Controller.php:57
+msgid "Configuration applied!"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:45
+msgid "Only authenticated users can access the REST API."
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:71
+msgid "Something is wrong!"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:120
+#: resources/views/dashboard/admin.php:27
+msgid "Pages"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:129
+#: resources/views/dashboard/admin.php:28
+msgid "Media"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:138
+#: resources/views/dashboard/admin.php:29
+msgid "Links"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:147
+#: resources/views/dashboard/admin.php:30
+msgid "Appearance"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:165
+#: resources/views/dashboard/admin.php:32
+msgid "Tools"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:174
+#: resources/views/dashboard/admin.php:33
+msgid "Settings"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:183
+#: resources/views/dashboard/admin.php:34
+msgid "Users"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:192
+#: resources/views/dashboard/admin.php:35
+msgid "Plugins"
+msgstr ""
+
+#: plugin/Providers/BestConfigurationManager.php:400
+msgid "<h1>Feed not available, please visit our <a href=\""
+msgstr ""
+
+#: resources/views/comments/admin.php:3 resources/views/dashboard/admin.php:3
+#: resources/views/general/index.php:17 resources/views/posts/admin.php:3
+#: resources/views/widgets/admin.php:3
+msgid "Admin"
+msgstr ""
+
+#: resources/views/comments/admin.php:14 resources/views/widgets/admin.php:14
+msgid "Coming..."
+msgstr ""
+
+#: resources/views/comments/admin.php:20 resources/views/comments/theme.php:34
+#: resources/views/dashboard/admin.php:55
+#: resources/views/dashboard/theme.php:26 resources/views/general/index.php:80
+#: resources/views/posts/admin.php:60 resources/views/posts/theme.php:40
+#: resources/views/widgets/admin.php:20 resources/views/widgets/theme.php:24
+msgid "Warning! Are you sure to reset the values to default?"
+msgstr ""
+
+#: resources/views/comments/admin.php:22 resources/views/comments/theme.php:36
+#: resources/views/dashboard/admin.php:57
+#: resources/views/dashboard/theme.php:28 resources/views/general/index.php:82
+#: resources/views/posts/admin.php:62 resources/views/posts/theme.php:42
+#: resources/views/widgets/admin.php:22 resources/views/widgets/theme.php:26
+msgid "Reset to default"
+msgstr ""
+
+#: resources/views/comments/admin.php:28 resources/views/comments/theme.php:42
+#: resources/views/dashboard/admin.php:63
+#: resources/views/dashboard/theme.php:34 resources/views/general/index.php:88
+#: resources/views/posts/admin.php:68 resources/views/posts/theme.php:48
+#: resources/views/widgets/admin.php:28 resources/views/widgets/theme.php:32
+msgid "Apply"
+msgstr ""
+
+#: resources/views/comments/theme.php:3 resources/views/dashboard/theme.php:3
+#: resources/views/posts/theme.php:5 resources/views/widgets/theme.php:1
+msgid "Theme"
+msgstr ""
+
+#: resources/views/comments/theme.php:18
+msgid "Remove only the author link from comments list"
+msgstr ""
+
+#: resources/views/comments/theme.php:26
+msgid "Remove the author from comments list"
+msgstr ""
+
+#: resources/views/dashboard/admin.php:18
+msgid "Remove Welcome Panel from WordPress Dashboard."
+msgstr ""
+
+#: resources/views/dashboard/admin.php:22
+msgid "Remove the following menus"
+msgstr ""
+
+#: resources/views/dashboard/theme.php:18
+msgid "Remove admin bar"
+msgstr ""
+
+#: resources/views/general/index.php:32
+msgid "Enable WP REST API"
+msgstr ""
+
+#: resources/views/general/index.php:40
+msgid "Enable XML-RPC"
+msgstr ""
+
+#: resources/views/general/index.php:48
+msgid "Display WordPress Version"
+msgstr ""
+
+#: resources/views/general/index.php:56
+msgid "Remove footer"
+msgstr ""
+
+#: resources/views/general/index.php:64
+msgid "Hide login Errors"
+msgstr ""
+
+#: resources/views/general/index.php:72
+msgid "Disable Authentication by Email"
+msgstr ""
+
+#: resources/views/posts/admin.php:15
+msgid ""
+"Set the number of revisions to keep for all post types (set to zero for "
+"default)"
+msgstr ""
+
+#: resources/views/posts/admin.php:25
+msgid ""
+"Set the number of revisions for the following post types (set to zero for "
+"default)"
+msgstr ""
+
+#: resources/views/posts/admin.php:52
+msgid "Enbale Drag & Drop in Pages"
+msgstr ""
+
+#: resources/views/posts/theme.php:21
+msgid "Disable feed RSS"
+msgstr ""
+
+#: resources/views/posts/theme.php:27
+msgid "Set the excerpt length (set to zero for default)"
+msgstr ""
+
+#: resources/views/widgets/theme.php:16
+msgid "Enable Shortcodes for the Text Widget"
+msgstr ""
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Placeholders"
+#~ msgstr "Segnaposti"
+
+#~ msgid "Environment"
+#~ msgstr "Ambienti"
+
+#~ msgid "Places"
+#~ msgstr "Posti"
+
+#~ msgid "Status"
+#~ msgstr "Stato"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Publish"
+#~ msgstr "Pubblica"
+
+#~ msgid "Trash"
+#~ msgstr "Cestino"
+
+#~ msgid "Edit"
+#~ msgstr "Modifica"
+
+#~ msgid "Restore"
+#~ msgstr "Repristina"
+
+#~ msgid "Delete"
+#~ msgstr "Elimina"
+
+#~ msgid "Icon"
+#~ msgstr "Icona"
+
+#~ msgid "Move to Trash"
+#~ msgstr "Sposta nel cestino"
+
+#~ msgid "Add"
+#~ msgstr "Aggiungi"
+
+#~ msgid "Update"
+#~ msgstr "Aggiorna"

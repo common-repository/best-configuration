@@ -1,0 +1,1 @@
+!function(t){"use strict";t(document).on("click",'button[name="reset-to-default"]',function(){return confirm(t(this).data("confirm"))})}(jQuery);

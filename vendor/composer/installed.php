@@ -1,0 +1,65 @@
+<?php return array(
+    'root' => array(
+        'name' => 'gfazioli/bestconfiguration',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '689812a381814d922cc51c74313b03bc42a5a367',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'eftec/bladeone' => array(
+            'pretty_version' => '4.13',
+            'version' => '4.13.0.0',
+            'reference' => 'a24ce564a681fa3e37b2490952915c403ee9e56a',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../eftec/bladeone',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'gfazioli/bestconfiguration' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '689812a381814d922cc51c74313b03bc42a5a367',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'wpbones/pure-css-switch' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b7bc7d47eafd24a21322113dcb93d181936d5976',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../wpbones/pure-css-switch',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'wpbones/pure-css-tabs' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b9c8177d316c95bb7ae60eb80d91c42da4007578',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../wpbones/pure-css-tabs',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+        'wpbones/wpbones' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'b7b95fc71c87db59a63173b576b4e3d2bded31e1',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../wpbones/wpbones',
+            'aliases' => array(
+                0 => '9999999-dev',
+            ),
+            'dev_requirement' => false,
+        ),
+    ),
+);
